@@ -1,9 +1,9 @@
 openapi: 3.0.0
 info:
   version: v0.0.0
-  title: API
+  title: Parcel Delivery System API (Amanises)
   description: |
-    ## Test
+    API for managing parcel deliveries via automated locker systems.
 servers:
   - url: https://bytetype-8a0ee821570d.herokuapp.com/api
     description: server

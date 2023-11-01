@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocument=self.webpackChunkdocument||[]).push([[616],{70006:e=>{e.exports=JSON.parse('{"title":"Frontend","slug":"/category/frontend","permalink":"/document/docs/category/frontend","navigation":{"previous":{"title":"Tutorial Intro","permalink":"/document/docs/intro"},"next":{"title":"Design","permalink":"/document/docs/frontend/design"}}}')}}]);
