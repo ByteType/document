@@ -188,6 +188,10 @@ components:
           type: string
           description: The Physical address of the account.
           example: 123 Main St, Anytown, AN 12345
+        roles:
+          type: array
+          items:
+            $ref: '#/components/schemas/RoleType'
     UserInfoResponse:
       type: object
       properties:
